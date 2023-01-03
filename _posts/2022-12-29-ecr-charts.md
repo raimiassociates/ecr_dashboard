@@ -8,6 +8,7 @@ folium-loader:
   folium-chart-1: ["charts/lu_barchart.html", "400"] # second argument is the height
   folium-chart-2: ["charts/lu_piechart.html", "400"] # second argument is the height
   folium-chart-3: ["charts/streetmap.html", "600"] # second argument is the height
+  folium-chart-4: ["Vacancy Rate (%).html", "400"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
@@ -31,4 +32,10 @@ Total acreage of land by land use (L1):
 Streets around Marina City center:
 
 <div id="folium-chart-3"></div>
+
+## Vacancy Rate Chart
+
+Percent of vacant units in the City:
+
+<div id="folium-chart-4"></div>
 
