@@ -9,7 +9,7 @@ folium-loader:
   folium-chart-2: ["charts/lu_piechart.html", "400"] # second argument is the height
   folium-chart-3: ["charts/streetmap.html", "600"] # second argument is the height
   folium-chart-4: ["charts/Vacancy Rate.html", "400"] # second argument is the height
-  folium-chart-5: ["charts/lu_treemapchart_1.html", "400"] # second argument is the height
+  folium-chart-5: ["charts/lu_treemapchart_2.html", "600"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
