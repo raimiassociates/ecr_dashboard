@@ -16,7 +16,7 @@ toc_sticky: true
 # Static Images
 ## Existing Land Use Map
 The following map was generated from the ECR script:
-![Existing Land Use Map](assets/Existing Land Use Category (L1).png)
+![Existing Land Use Map](/assets/images/Existing Land Use Category (L1).png)
 
 ## Existing Condition of Housing
 The following charts were generated from the ECR script:
