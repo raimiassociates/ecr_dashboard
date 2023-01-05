@@ -16,12 +16,12 @@ toc_sticky: true
 # Static Images
 ## Existing Land Use Map
 The following map was generated from the ECR script:
-![Existing Land Use Map](assets/images/Existing Land Use Category (L1).png)
+![Existing Land Use Map](https://raw.githubusercontent.com/raimiassociates/ecr_dashboard/main/assets/images/Existing%20Land%20Use%20Category%20(L1).png)
 
 ## Existing Condition of Housing
 The following charts were generated from the ECR script:
 The City's Median Year Built is 1978, younger than those of the state and county average year built.
-![Median Year Built](assets/images/Median Year Structure Built.png)
+![Median Year Built](./assets/images/Median Year Structure Built.png)
 
 <!--![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")-->
 
