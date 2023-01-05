@@ -9,6 +9,7 @@ folium-loader:
   folium-chart-2: ["charts/lu_piechart.html", "400"] # second argument is the height
   folium-chart-3: ["charts/streetmap.html", "600"] # second argument is the height
   folium-chart-4: ["charts/Vacancy Rate.html", "400"] # second argument is the height
+  folium-chart-5: ["charts/lu_treemapchart.html, "400"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
@@ -48,6 +49,13 @@ Total acreage of land by land use (L1):
 Total acreage of land by land use (L1):
 
 <div id="folium-chart-2"></div>
+
+## Land Use Acreage Interactive Treemap Chart
+
+Total acreage of land by land use from general to defined types:
+
+<div id="folium-chart-5"></div>
+
 
 ## Street Network Interactive Map
 
