@@ -13,6 +13,7 @@ folium-loader:
   folium-chart-6: ["charts/Tenure condition 2011.html", "500"]
   folium-chart-7: ["charts/Tenure condition 2021.html", "500"]
   folium-chart-8: ["charts/Vacancy Rate (pct)_2011.html", "400"]
+  folium-chart-9: ["charts/vcnt_and_under_parcels.html", "600"]
 toc: true
 toc_sticky: true
 ---
@@ -81,6 +82,9 @@ Streets around Marina City center:
 
 <div id="folium-chart-3"></div>
 
+# Opportunity Sites
+Vacant and underutilized parcels (based on assessor parcels):
 
+<div id="folium-chart-9"></div>
 
 
