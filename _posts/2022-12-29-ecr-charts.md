@@ -10,6 +10,8 @@ folium-loader:
   folium-chart-3: ["charts/streetmap.html", "600"] # second argument is the height
   folium-chart-4: ["charts/Vacancy Rate.html", "400"] # second argument is the height
   folium-chart-5: ["charts/lu_treemapchart_2.html", "600"] # second argument is the height
+  folium-chart-6: ["charts/Tenure condition 2011.html", "500"]
+  folium-chart-7: ["charts/Tenure condition 2021.html", "500"]
 toc: true
 toc_sticky: true
 ---
@@ -56,6 +58,12 @@ Total acreage of land by land use from general to defined types:
 
 <div id="folium-chart-5"></div>
 
+## Changing Housing Tenure
+Based on ACS2011 5yr and ACS2021 5yr estimates, the City of Marina Percent of vacant units in the City:
+* Marina has a lower rate of homeownership than Monterey County or the state – approximately 41.1 percent of Marina’s housing units were owner-occupied in 2021, as opposed to 51.7 percent in the county and 55.5 percent statewide.
+<div id="folium-chart-7"></div>
+* Despite these relatively low rates of owner occupancy, homeownership rates have slightly increased in Marina over the last 10 years. The percentage of owner-occupied homes in 2021 was up about 1 percent from 2011, when 40.1 percent of units were owner-occupied.
+<div id="folium-chart-6"></div>
 
 ## Street Network Interactive Map
 
@@ -68,4 +76,5 @@ Streets around Marina City center:
 Percent of vacant units in the City:
 
 <div id="folium-chart-4"></div>
+
 
