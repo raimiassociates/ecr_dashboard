@@ -19,7 +19,7 @@ toc_sticky: true
 ---
 # Existing Land Use
 ## Existing Land Use Map
-The following map was generated from the ECR script:
+The following map was generated from the ECR python script:
 ![Existing Land Use Map](https://raw.githubusercontent.com/raimiassociates/ecr_dashboard/main/assets/images/Existing%20Land%20Use%20Category%20(L1).png)
 
 # Housing
