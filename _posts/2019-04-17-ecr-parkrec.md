@@ -3,7 +3,7 @@ title: "Chapter 3: Parks, Open Space and Recreation"
 date: 2019-04-17
 published: true
 tags: [dataviz, matplotlib]
-excerpt: "This is an example blog post that embeds a matplotlib image."
+excerpt: "Enhance quality of life with abundant resources for parks and recreation."
 toc: true
 toc_sticky: true
 read_time: false

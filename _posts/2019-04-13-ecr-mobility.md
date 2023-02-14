@@ -3,7 +3,7 @@ title: "Chapter 4: Mobility"
 date: 2019-04-13
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
+excerpt: "Vision a connected and safe mobility network."
 altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
