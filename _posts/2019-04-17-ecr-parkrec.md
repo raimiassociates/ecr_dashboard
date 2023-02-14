@@ -1,5 +1,5 @@
 ---
-title: "Example: Embedding Matplotlib Images"
+title: "Chapter 3: Parks, Open Space and Recreation"
 date: 2019-04-17
 published: true
 tags: [dataviz, matplotlib]

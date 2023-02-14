@@ -1,5 +1,5 @@
 ---
-title: "Chapter 6: Mobility"
+title: "Chapter 4: Mobility"
 date: 2019-04-13
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
