@@ -1,5 +1,5 @@
 ---
-title: "Welcome to GitHub Pages!"
+title: "Chapter 5: Community Resilience"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
