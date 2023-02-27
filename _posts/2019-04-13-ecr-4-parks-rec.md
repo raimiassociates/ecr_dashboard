@@ -1,9 +1,9 @@
 ---
-title: "Chapter 4: Mobility"
+title: "Chapter 4: Parks and Recreation"
 date: 2019-04-13
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "Vision a connected and safe mobility network."
+excerpt: "Enhance quality of life with abundant resources for parks and recreation."
 altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:

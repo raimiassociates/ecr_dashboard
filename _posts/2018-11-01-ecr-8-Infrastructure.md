@@ -1,9 +1,9 @@
 ---
-title: "Chapter 6: Public Health and Environmental Justice"
-date: 2019-01-01
+title: "Chapter 8: Infrastructure"
+date: 2018-11-01
 published: true
 tags: [dataviz, folium]
-excerpt: "Create an equitable and healthy community through systematic efforts."
+excerpt: "Protect the precious heritage from nature that defines Marina."
 folium-loader:
   folium-chart-1: ["charts/lu_barchart.html", "400"] # second argument is the height
   folium-chart-2: ["charts/lu_piechart.html", "400"] # second argument is the height

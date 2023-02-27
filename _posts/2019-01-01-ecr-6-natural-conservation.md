@@ -1,9 +1,9 @@
 ---
-title: "Chapter 2: Land Use and Community Design"
-date: 2023-02-13
+title: "Chapter 6: Natural Conservation"
+date: 2019-01-01
 published: true
 tags: [dataviz, folium]
-excerpt: "Bring vibrant, beautiful and well designed neighborhoods to life."
+excerpt: "Protect the precious heritage from nature that defines Marina."
 folium-loader:
   folium-chart-1: ["charts/lu_barchart.html", "400"] # second argument is the height
   folium-chart-2: ["charts/lu_piechart.html", "400"] # second argument is the height
